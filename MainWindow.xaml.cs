@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Canvas_Example
+namespace WPF_Layout_Canvas_Ex
 {
 	/// <summary>
 	/// Interaction logic for MainWindow.xaml

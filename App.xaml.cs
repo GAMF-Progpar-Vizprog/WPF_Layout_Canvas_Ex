@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Canvas_Example
+namespace WPF_Layout_Canvas_Ex
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
